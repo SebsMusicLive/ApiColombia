@@ -1,0 +1,27 @@
+#container-information h1{
+    padding: 3%;
+    padding-bottom: 2%;
+    text-align: center;
+}
+
+.description {
+    padding: 1%;
+    font-size: 20px;
+    text-align: justify;
+    border-style: dashed;
+    border-width: 3px;
+    border-radius: 2rem;
+}
+
+.logo-img{
+    width: 80px;
+    padding: 10px;
+    border-radius: 1rem;
+}
+
+.date {
+    padding: 3%;
+    padding-bottom: 0;
+    font-size: 20px;
+}
+
